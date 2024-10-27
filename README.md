@@ -1,3 +1,3 @@
 # Podyplomowe
 
-This is a markdown excercise.
+This is a markdown excercise project for the university.
