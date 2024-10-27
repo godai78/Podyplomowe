@@ -1,5 +1,6 @@
 # Title <!-- omit in toc -->
 
+- [Regular markdown text](#regular-markdown-text)
 - [Visual elements](#visual-elements)
 	- [Bold](#bold)
 	- [Italic](#italic)
@@ -20,6 +21,9 @@
 	- [Ordered](#ordered)
 	- [Unordered](#unordered)
 - [Tables](#tables)
+
+
+## Regular markdown text
 
 This is the first paragraph of my file.
 
