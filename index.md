@@ -7,9 +7,9 @@
 	- [Quote](#quote)
 	- [Code and formulas](#code-and-formulas)
 		- [Code phrase](#code-phrase)
-		- [Formula](#formula)
+		- [Formula (unsupported by GitHub pages)](#formula-unsupported-by-github-pages)
 		- [Code block](#code-block)
-		- [Formula block](#formula-block)
+		- [Formula block (unsupported by GitHub pages)](#formula-block-unsupported-by-github-pages)
 - [Linking elements](#linking-elements)
 	- [Links to content](#links-to-content)
 		- [External](#external)
@@ -55,7 +55,7 @@ This is a quote:
 
 This is a text with `void` codephrase.
 
-#### Formula
+#### Formula (unsupported by GitHub pages)
 
 This is a formula: $2+37^2$
 
@@ -69,7 +69,7 @@ This is a code block:
 </data>
 ```
 
-#### Formula block
+#### Formula block (unsupported by GitHub pages)
 
 This is a formula block:
 
