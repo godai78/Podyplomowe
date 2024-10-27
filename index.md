@@ -1,3 +1,24 @@
+- [Title](#title)
+	- [Visual elements](#visual-elements)
+		- [Bold](#bold)
+		- [Italic](#italic)
+		- [Quote](#quote)
+		- [Code and formulas](#code-and-formulas)
+			- [Code phrase](#code-phrase)
+			- [Code block](#code-block)
+	- [Linking elements](#linking-elements)
+		- [Links to content](#links-to-content)
+			- [External](#external)
+			- [Internal](#internal)
+	- [Images](#images)
+		- [External](#external-1)
+		- [Internal](#internal-1)
+	- [Lists](#lists)
+		- [Ordered](#ordered)
+		- [Unordered](#unordered)
+	- [Tables](#tables)
+
+
 # Title
 
 This is the first paragraph of my file.
