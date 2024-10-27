@@ -54,3 +54,13 @@ Like to file example: [additional information](reference.md)
 
 Anchor [is an internal link](#code-block) within the same file.
 
+### Images
+
+#### External
+
+![Picsum](https://picsum.photos/200)
+
+#### Internal
+
+![Bread](bread.jpg "Alt text")
+
