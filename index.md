@@ -80,8 +80,8 @@ Anchor [is an internal link](#code-block) within the same file.
 
 ## Tables
 
-| Column | Column 2 | Column 3 |
-| ------ | ------ | ------ |
-| row 1  | row 1 | row 1 |
-| A very long phrase | Another very long sentence| row 3 |
+| Column             | Column 2                   | Column 3 |
+| ------------------ | -------------------------- | -------- |
+| row 1              | row 1                      | row 1    |
+| A very long phrase | Another very long sentence | row 3    |
 
