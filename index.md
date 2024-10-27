@@ -87,7 +87,7 @@ This is an example of external link: [Weather forecast](https://www.meteo.pl/).
 
 #### Internal
 
-Like to file example: [additional information](reference.md)
+Like to file example: [additional information](reference.md).
 
 Anchor [is an internal link](#code-block) within the same file.
 
