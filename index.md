@@ -53,7 +53,7 @@ This is a text with `void` codephrase.
 
 This is a code block:
 
-```
+```js
 <data name="ErrorHeader" xml:space="preserve">
 <value>Error</value>
 </data>
