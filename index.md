@@ -20,7 +20,9 @@
 - [Lists](#lists)
 	- [Ordered](#ordered)
 	- [Unordered](#unordered)
+	- [To-do lists](#to-do-lists)
 - [Tables](#tables)
+- [Emojis](#emojis)
 
 
 ## Regular markdown text
@@ -115,9 +117,18 @@ Anchor [is an internal link](#code-block) within the same file.
 * Two
 	* Three
 
+### To-do lists
+
+- [ ] Did I forget to put a to-do list in?
+- [x] Yes, I did.
+
 ## Tables
 
 | Column             | Column 2                   | Column 3 |
 | ------------------ | -------------------------- | -------- |
 | row 1              | row 1                      | row 1    |
 | A very long phrase | Another very long sentence | row 3    |
+
+## Emojis
+
+Let's just aknowledge they exist. I just don't like them. Here is an oldschool one: `:)`.
