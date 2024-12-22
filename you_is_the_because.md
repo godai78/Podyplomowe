@@ -1,5 +1,5 @@
 # You is the because
-**Or the (somewhat disenchanted) view on what and how we write online and why it is bad.**
+**Or the (somewhat disenchanted) view on what and how we write online and why it isn't good.**
 
 This story got a 12.1 Coleman-Liau readability score, which means it is appropriate for a grade 10 reader.
 
