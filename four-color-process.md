@@ -4,7 +4,7 @@
 
 One of the iconic elements of mid-20th century comics was a terribly poor print on cheap paper and the four-color process. Tiny dots of color were printed one over the other to create a mixture that could produce any color. These dots were red, blue, and yellow with black on top.
 
-![A panel from “Detective Comics” #31.](4cp/4CP_view.jpg)
+![A panel from *Detective Comics* #31.](4cp/4CP_view.jpg)
 
 *This panel from Detective Comics #31 clearly shows the famous dots. © DC Comics*
 
@@ -14,7 +14,7 @@ You may want to simulate this outdated process for nostalgic or artistic reasons
 
 The following description and pictures were done in **Photoshop CS2**. It should be clearly understandable also on newer version of the Adobe interface.
 
-The picture used to illustrate the process is my own recreation of a comic panel by Marc Silvestri, from the Wolverine solo series from 1990.
+The picture used to illustrate the process is my own recreation of a comic panel by Marc Silvestri, from the *Wolverine* solo series from 1990.
 
 1. Load the image and make sure the resolution is 300DPI. This is the industry standard for color printing, both offset and digital. You may settle for less if you aim at online publication and screen only. This will produce larger halftones and you will need to adjust this value during step 4.
 
