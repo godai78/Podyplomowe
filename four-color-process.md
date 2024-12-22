@@ -1,16 +1,18 @@
 # 4-color process in Adobe Photoshop — creating the retro comic color halftones the easy and free way
 
-My generation (and the older folks as well) probably remember the comic books of our teenage years, the Polish reprints of Marvel and DC brought in the 90s by TM-Semic. One of the iconic elements of those comics was a terribly poor print on cheap paper and the 4CP method, i.e. four-color process. Tiny dots of color were printed one over the other to create a mixture that could produce any color. These dots were red, blue, and yellow (well, almost that!) and black on top (sometimes on the bottom, things were hasty). Up till this day printing four basic colors (cyan, magenta, yellow and black) in layers is one of the basic methods of color printing.
-A panel from “Detective Comics” #31.
+## A word about the process
 
-![](4cp/4CP_view.jpg)
+One of the iconic elements of mid-20th century comics was a terribly poor print on cheap paper and the four-color process. Tiny dots of color were printed one over the other to create a mixture that could produce any color. These dots were red, blue, and yellow with black on top.
+
+![A panel from “Detective Comics” #31.](4cp/4CP_view.jpg)
+
 *This panel from Detective Comics #31 clearly shows the famous dots. © DC Comics*
 
-We later learned these dots are called halftones and the process of splitting colors into layers is called separation. The 90s came with the terrible computer coloring, then the 21st century made everything decent again, and now color halftones are more of a part of vaporwave nostalgia than anything else, as modern comics print quality is something completely different…
+You may want to simulate this outdated process for nostalgic or artistic reasons. This tutorial can also be used as a starting process for screen printing or stamping.
 
-What is the point of simulating it now? Nostalgic, as mentioned. Artistic. Freedom of expression, impressing the viewer, striking a chord. These are the aims of the tutorial that follows, but not only. It can be used as a starting process for screen printing, stamping (well, that would be very detailed and difficult probably, laser cutting would be a must), or whatever. What I know is that people pay heavy bucks for textures and brushes when they could achieve a much more real effect for free.
+## Instructions
 
-The following description and pictures were done in Photoshop CS2, but there have not been as many changes to the interface since then and everything should be clearly understandable.
+The following description and pictures were done in **Photoshop CS2**. It should be clearly understandable also on newer version of the Adobe interface.
 
 The picture used to illustrate the process is my own recreation of a comic panel by Marc Silvestri, from the Wolverine solo series from 1990.
 
