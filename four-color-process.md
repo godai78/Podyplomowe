@@ -1,4 +1,4 @@
-# 4-color process in Adobe Photoshop — creating the retro comic color halftones the easy and free way
+# 4-color process in Adobe Photoshop&ndash;creating the retro comic color halftones the easy and free way
 
 ## About the process
 
@@ -32,7 +32,7 @@ The picture used to illustrate the process is my own recreation of a comic panel
 
 ![](4cp/4CP_04a.png)
 
-Choose the right resolution — 300DPI is the default unless you decided to use different one in step 1. This affects halftone dots sizes in the resulting file.
+Choose the right resolution&ndash;300DPI is the default unless you decided to use different one in step 1. This affects halftone dots sizes in the resulting file.
 
 ![](4cp/4CP_04b.png)
 
@@ -61,7 +61,7 @@ Such values make the three dark halftone dots form an equilateral triangle. This
 
 ![](4cp/4CP_06a.png)
 
-Select the color range — black with 200 fuzziness.
+Select the color range&ndash;black with 200 fuzziness.
 
 ![](4cp/4CP_06b.png)
 
