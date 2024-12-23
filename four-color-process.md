@@ -12,7 +12,7 @@ You may want to simulate this outdated process for nostalgic or artistic reasons
 
 ## Instructions
 
-> **NOTE**: the following description and pictures were done in **Photoshop CS2**. It should be clearly understandable also on newer version of the Adobe interface.
+> **NOTE**: the following description and pictures were done in **Adobe Photoshop CS2**. It should be clearly understandable also on newer version of the Photoshop interface.
 
 The picture used to illustrate the process is my own recreation of a comic panel by Marc Silvestri, from the *Wolverine* solo series from 1990.
 
@@ -73,7 +73,7 @@ Do this for all four files. You now have four halftones with transparency.
 
 ![](4cp/4CP_06d.png)
 
-7. Drag all these files into a new one as separate layers. Remember to create a fresh CMYK file as converting them before has changed sizes and resolutions. Name all the layers the same as the input files: C, M, Y, and K, to keep track of color halftones to fill in. Leave the background fully white. Keep blacks on top.
+7. Drag all these files into a new file as separate layers. Remember to create a fresh CMYK file as converting them before has changed sizes and resolutions. Name all the layers the same as the input files: C, M, Y, and K, to keep track of color halftones to fill in. Leave the background fully white. Keep blacks on top.
 
 ![](4cp/4CP_07.png)
 
