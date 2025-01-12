@@ -25,7 +25,7 @@ It seems, however, truth is different. Here is the second Soviet cosmonaut, Gher
 
 > I don’t believe in God. I believe in man — his strength, his possibilities, his reason.
 
-This alone is enough to make Titov’s stand clear, but what is much more important are words that are an earlier part of the same statement, as noted by Pavel Barashev and Yuri Dokuchayev (later quoted by Christine Spillson in her “Lower orbits: remembering Gherman Titov” in 2017):
+This alone is enough to make Titov’s stand clear. What is much more important, though, are words that are an earlier part of the same statement, as noted by Pavel Barashev and Yuri Dokuchayev (later quoted by Christine Spillson in her “Lower orbits: remembering Gherman Titov” in 2017):
 
 > Some say God is living there [in space]. I was looking around very attentively, but I did not see anyone there. I did not detect either angels or gods…
 
@@ -33,7 +33,7 @@ There is a striking resemblance between Titov’s statement and the alleged Gaga
 
 > Gagarin flew into space, but didn’t see any god there.
 
-It seems the situation is similar to the case of “the Einstein fish” mentioned on top of this piece, which was partly fabricated, partly based on previous writings and eventually invented by Mathew Kelly in his own 2004 book “The Rhythm of Life: Living Every Day with Passion and Purpose” as reported by Todd Pettigrew. There indeed was once a cosmonaut, who was no comrade to God, but the communist first secretary has mentioned the wrong spacefarer.
+It seems that the situation is similar to the case of “the Einstein fish” mentioned on top of this piece, which was partly fabricated, partly based on previous writings and eventually invented by Mathew Kelly in his own 2004 book “The Rhythm of Life: Living Every Day with Passion and Purpose” as reported by Todd Pettigrew. There indeed was once a cosmonaut, who was no comrade to God, but the communist first secretary has mentioned the wrong spacefarer.
 
 There is another version of the quote, a very similar one, allegedly uttered by Gagarin during the Vostok 1 flight:
 
@@ -41,7 +41,7 @@ There is another version of the quote, a very similar one, allegedly uttered by 
 
 There is no evidence nor an indication of this kind of statement to be found in any official documents or transcript from the pioneer spaceflight. It looks like a post-factum fabrication or misreporting of a different, though possibly real, situation.
 
-So, has Yuri Alexeyevich Gagarin met God in space? This we do not know. We surely know Gherman Stepanovich Titov has not met Him there, which he eagerly announced.
+So, has Yuri Alexeyevich Gagarin met God in space? That we do not know. We surely know Gherman Stepanovich Titov has not met Him there, which he eagerly announced.
 
 ![Kosmonauts](cb/kosmonauts.jpg "Titov, Kruschev, Gagarin")
 *From left: Gherman Titov, Nikita Khruschev, Yuri Gagarin, 1961. Public domain.*
