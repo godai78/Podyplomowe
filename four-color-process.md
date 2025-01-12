@@ -42,6 +42,10 @@ Set the frequency to 60 lines. Choose the round shape. We will set with the angl
 
 > The frequency affects the density and size of the dots. If you want them large and visible like Roy Liechtenstein’s, you have to play with this setting until you are satisfied with the results. 60 produces a nice, dense effect, perfect for printing on paper.
 
+![](4cp/4CP_04d.png)
+
+5. Repeat this process for every color file. Convert the proper channels and use respective angles for each color (see list below). This should produce four black-and-white files with halftones based on each basic CMYK color. You may want to keep the black converted to 50% threshold to make it opaque.
+
 Setting the angles - this is very important! The values should be set as follows:
 
 * cyan 15°
@@ -50,10 +54,6 @@ Setting the angles - this is very important! The values should be set as follows
 * yellow 0°
 
 Such values make the three dark halftone dots form an equilateral triangle. This creates the effect of the circular distribution of the dots. The yellow creates a moire effect. As this color is light it does not affect the result adversely.
-
-![](4cp/4CP_04d.png)
-
-5. Repeat this process for every color file. Convert the proper channels and use respective angles for each color. This should produce four black-and-white files with halftones based on each basic CMYK color. You may want to keep the black converted to 50% threshold to make it opaque.
 
 ![](4cp/4CP_05.png)
 
@@ -73,7 +73,7 @@ Do this for all four files. You now have four halftones with transparency.
 
 ![](4cp/4CP_06d.png)
 
-7. Drag all these files into a new file as separate layers. Remember to create a fresh CMYK file as converting them before has changed sizes and resolutions. Name all the layers the same as the input files: C, M, Y, and K, to keep track of color halftones to fill in. Leave the background fully white. Keep blacks on top.
+7. Create a fresh CMYK file. Drag the 4 files you created in previous steps into the new file as separate layers. Name all the layers the same as the input files: C, M, Y, and K, to keep track of color halftones to fill in. Leave the background fully white. Keep blacks on top.
 
 ![](4cp/4CP_07.png)
 
@@ -85,10 +85,12 @@ All the halftones are ready now.
 
 ![](4cp/4CP_08b.png)
 
-9. Set layer modes to multiply for color layers, black can stay on normal. If you use black halftone instead of solid black and put it on the bottom, you will achieve the poor old print effect.
+9. Set layer modes to multiply for color layers, black can stay on normal.
+ 
+> Note: by using black halftone instead of solid black and putting it on the bottom, you can achieve the poor old print effect.
 
 ![](4cp/4CP_09.png)
 
-10.  You’re welcome.
+10. You’re welcome.
 
 ![](4cp/4CP_10.png)
