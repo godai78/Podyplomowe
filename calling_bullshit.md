@@ -5,6 +5,8 @@ Calling bullshit on things people assume to be facts is one of the most arduous 
 
 I will not even get started with the infamous “Einstein quote” about fish and climbing the tree (maybe some other time). I’ll, rather, reach the stars with a little story about commie lies. This is the story of what Yuri Gagarin, the Earth’s first cosmonaut never said.
 
+![Gagarin’s Breakfast](cb/gagarin.jpg "Gagarin’s Breakfast")
+
 *“Gagarin’s Breakfast”, Alexey Akindinov, 2012, Creative Commons*
 
 Both the Vostok 1 mission as its pilot — a man, a hero of the Soviet Union — has been veiled in multiple mysteries, understatements and misrepresentations for years. One of those mysteries are the circumstances of his death — the investigation has been closed while the evidence has been sealed and put off. Maybe to be returned to, or maybe — to never again be returned to.
@@ -41,6 +43,7 @@ There is no evidence nor an indication of this kind of statement to be found in 
 
 So, has Yuri Alexeyevich Gagarin met God in space? This we do not know. We surely know Gherman Stepanovich Titov has not met Him there, which he eagerly announced.
 
+![Kosmonauts](cb/kosmonauts.jpg "Titov, Kruschev, Gagarin")
 *From left: Gherman Titov, Nikita Khruschev, Yuri Gagarin, 1961. Public domain.*
 
 This is how propaganda and fake news work — this quote has been up on Wikipedia for years before someone marked it as “attributed only”. Crafting parts of truth to gain traction is a great way to start. But two half-truths can still only add up to one whole lie.
